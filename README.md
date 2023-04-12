@@ -33,7 +33,7 @@ git clone https://github.com/simit22/youtube_downloader.git
 
 cd youtube_downloader
 
-chmod +x ytdl.py
+python -m pip install -r requirements.txt    or     pip install pytube
 
 python3.8 ytdl.py
 ```
