@@ -38,4 +38,4 @@ python -m pip install -r requirements.txt    or     pip install pytube
 python3.8 ytdl.py
 ```
 
-> for now it is only available in github but i plan to publish it for linux os  
+> for now it is only available on github but i plan to publish it for linux os  
