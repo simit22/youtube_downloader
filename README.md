@@ -27,13 +27,15 @@ this project is a simple youtube downloader script
 ------
 
 ```
+install python 3.7 or above
+
 git clone https://github.com/simit22/youtube_downloader.git
 
 cd youtube_downloader
 
 chmod +x ytdl.py
 
-python ytdl.py
+python3.8 ytdl.py
 ```
 
 > for now it is only available in github but i plan to publish it for linux os  
