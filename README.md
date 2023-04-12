@@ -27,9 +27,9 @@ this project is a simple youtube downloader script
 ------
 
 ```
-git clone 
+git clone https://github.com/simit22/youtube_downloader.git
 
-cd 
+cd youtube_downloader
 
 chmod +x ytdl.py
 
